@@ -1,9 +1,21 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ammar Hammoud</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1 align="center">Hi 👋, I'm Ammar</h1>
 
-- 🌱 I’m currently learning Flutter, Firebase, and Problem Solving.
+---
 
-- 📧 You may get in touch with me at **st.ammar.hammoud@gmail.com and I will respond as fast as I can.**
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
+</div>
+
+👨‍💻 **About me:**
+
+Ambitious, self-motivated, highly reliable and fast learner IT university student with strong and solid background in programming.
+
+- 🌱 I’m currently working on my skills Flutter, Firebase, and Problem Solving.
+
+- 📧 You may get in touch with me at **st.ammar.hammoud@gmail.com** and I will respond as soon as I possible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
