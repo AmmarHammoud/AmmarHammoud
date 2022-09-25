@@ -47,6 +47,24 @@ Firebase image
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 <!--
+Andriod studio image
+-->
+<a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> </a>
+
+<!--
+Int
+-->
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="40" height="40"/> </a>
+
+<!--
+VScode image
+-->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/> </a>
+
+<!--
 Git image
 -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -55,7 +73,7 @@ Git image
 <!--
 Postman image
 -->
-<a href="https://postman.com" target="_blank" rel="noreferrer">
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
 <!--
@@ -63,5 +81,11 @@ C++ image
 -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+
+<!--
+Java image
+-->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="40" height="40"/> </a>
 
 </p>
