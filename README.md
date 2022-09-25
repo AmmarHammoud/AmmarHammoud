@@ -19,8 +19,18 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 
 <h3 align="left">You may also connect with me at:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ammar-hammoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-hammoud" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ammar_hammoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ammar_hammoud" height="30" width="40" /></a>
+<!--
+LinkedIn image
+-->
+<a href="https://linkedin.com/in/ammar-hammoud" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-hammoud" height="30" width="40" /></a>
+
+<!--
+Codeforces image
+-->
+<a href="https://codeforces.com/profile/ammar_hammoud" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ammar_hammoud" height="30" width="40" /></a>
+
 </p>
 
 ---
@@ -32,60 +42,60 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 Dart image
 -->
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a>
 
 <!--
 Flutter image
 -->
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a>
   
 <!--
 Firebase image
 -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
 
 <!--
 Andriod studio image
 -->
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/> </a>
 
 <!--
 Int
 -->
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="50" height="50"/> </a>
 
 <!--
 VScode image
 -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="50" height="50"/> </a>
 
 <!--
 Git image
 -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 
 <!--
 Postman image
 -->
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
   
 <!--
 C++ image
 -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
 
 <!--
 Java image
 -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="60" height="60"/> </a>
 
 </p>
