@@ -1,15 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
-👨‍💻 **About me:**
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height="70"/> <label> About me: </label>
 
 Ambitious, self-motivated, highly reliable and fast learner IT university student with strong and solid background in programming.
 
@@ -78,7 +74,11 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 
 ---
 
-<h3 align="center">You may also connect with me at:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarHammoud&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarHammoud&layout=compact&theme=tokyonight"/>
+<!-- States -->
+<!--
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&Border=B638FF">
+<img  alt="AmmarHammoud's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmmarHammoud?cardType=level&theme=tokyonight&Border=B638FF"/></a>
+-->
 </p>
