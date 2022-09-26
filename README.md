@@ -18,7 +18,7 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
   
 <!-- LinkedIn image -->
 <a href="https://linkedin.com/in/ammar-hammoud" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-hammoud" height="30" width="40" /></a>
+<img align="center" src="https://img.icons8.com/color/480/000000/linkedin.png" alt="ammar-hammoud" height="30" width="40" /></a>
 
 <!-- Codeforces image -->
 <a href="https://codeforces.com/profile/ammar_hammoud" target="blank">
