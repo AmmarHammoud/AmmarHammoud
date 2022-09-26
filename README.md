@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height="70"/> <label> About me: </label>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height="70" id="f"/> <label for="f"> About me: </label>
 
 Ambitious, self-motivated, highly reliable and fast learner IT university student with strong and solid background in programming.
 
@@ -15,6 +15,7 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 
 <h3 align="left">You may also connect with me at:</h3>
 <p align="left">
+  
 <!-- LinkedIn image -->
 <a href="https://linkedin.com/in/ammar-hammoud" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-hammoud" height="30" width="40" /></a>
