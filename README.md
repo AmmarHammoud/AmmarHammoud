@@ -53,7 +53,7 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 
 <!-- VScode image -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="50" height="50"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50"/> </a>
 
 <!-- Git image -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -69,7 +69,7 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 
 <!-- Java image -->
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="60" height="60"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 
 </p>
 
@@ -83,3 +83,5 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 <img alt="AmmarHammoud's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmmarHammoud?cardType=level&theme=tokyonight&Border=B638FF"/></a>
 
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarHammoud&show_icons=true&theme=dark)
