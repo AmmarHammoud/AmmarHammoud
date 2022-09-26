@@ -74,14 +74,11 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 </p>
 
 ---
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarHammoud&layout=compact&theme=tokyonight" height="200"/>
- 
-<!-- States -->
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&Border=B638FF">
-<img alt="AmmarHammoud's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmmarHammoud?cardType=level&theme=tokyonight&Border=B638FF"/></a>
-
+<a href="blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarHammoud&layout=compact&theme=tokyonight" />
+</a>
+<a href="blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarHammoud&show_icons=true&theme=tokyonight" />
+</a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarHammoud&show_icons=true&theme=dark)
