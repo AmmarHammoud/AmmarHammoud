@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ammar</h1>
+<h1 align="left">Hi 👋, I'm Ammar</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800" height="400"/>
 </div>
 
 
@@ -74,11 +74,12 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 </p>
 
 ---
+
 <p align="center">
 <a href="blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarHammoud&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarHammoud&layout=compact&theme=tokyonight&border_color=BF40BF" height="200"/>
 </a>
 <a href="blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarHammoud&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarHammoud&show_icons=true&theme=tokyonight&border_color=BF40BF" height="200"/>
 </a>
 </p>
