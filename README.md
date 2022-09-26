@@ -75,3 +75,10 @@ Ambitious, self-motivated, highly reliable and fast learner IT university studen
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="60" height="60"/> </a>
 
 </p>
+
+---
+
+<h3 align="center">You may also connect with me at:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarHammoud&layout=compact&theme=dark"/>
+</p>
